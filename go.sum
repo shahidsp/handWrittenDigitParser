@@ -1,0 +1,4 @@
+github.com/moverest/mnist v0.0.0-20160628192128-ec5d9d203b59 h1:N7YMYr5dyVybP0kpmYrLWXpCX2W3ly1T1pflKQiaj7M=
+github.com/moverest/mnist v0.0.0-20160628192128-ec5d9d203b59/go.mod h1:QzlFfmUfh+Vs7ywNjNUNz6qyLx61b6AJWCGIXE7HKzM=
+gonum.org/v1/gonum v0.12.0 h1:xKuo6hzt+gMav00meVPUlXwSdoEJP46BR+wdxQEFK2o=
+gonum.org/v1/gonum v0.12.0/go.mod h1:73TDxJfAAHeA8Mk9mf8NlIppyhQNo5GLTcYeqgo2lvY=
