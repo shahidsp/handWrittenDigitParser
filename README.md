@@ -1,5 +1,4 @@
 # handwrittenDigitParser
-/*
 This network is a 2 layer network. The hidden layer has 16 neurons and the
 output layer has 10 which correspond to the 10 digits. The activation function
 I'm using is the sigmoid function for all the layers. I heard ReLu is better,
@@ -29,4 +28,3 @@ other problems as I am self-taught and I built network based on videos by
 My "sources"
 	https://www.3blue1brown.com/topics/neural-networks
 	https://www.youtube.com/watch?v=w8yWXqWQYmU
-*/
