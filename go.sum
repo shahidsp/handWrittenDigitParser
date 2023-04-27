@@ -1,4 +1,12 @@
+github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/kujenga/goml v0.1.0 h1:Bx7cxKPF41EVGwoR6j1RG8kdLqWvk9AOMB9gzaZDa8w=
+github.com/kujenga/goml v0.1.0/go.mod h1:mhUhn8k2LkBNZzFRdKVl5nH1MApfLhcxXBsxMPLsBMA=
 github.com/moverest/mnist v0.0.0-20160628192128-ec5d9d203b59 h1:N7YMYr5dyVybP0kpmYrLWXpCX2W3ly1T1pflKQiaj7M=
 github.com/moverest/mnist v0.0.0-20160628192128-ec5d9d203b59/go.mod h1:QzlFfmUfh+Vs7ywNjNUNz6qyLx61b6AJWCGIXE7HKzM=
+github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
+github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
+github.com/stretchr/testify v1.7.0/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
 gonum.org/v1/gonum v0.12.0 h1:xKuo6hzt+gMav00meVPUlXwSdoEJP46BR+wdxQEFK2o=
 gonum.org/v1/gonum v0.12.0/go.mod h1:73TDxJfAAHeA8Mk9mf8NlIppyhQNo5GLTcYeqgo2lvY=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=
