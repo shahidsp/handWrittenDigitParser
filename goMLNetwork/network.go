@@ -18,7 +18,7 @@ func Run() {
 
 	hidden1 := neural.Layer{
 		Name:                    "hidden1",
-		Width:                   50,
+		Width:                   100,
 		ActivationFunction:      nil,
 		ActivationFunctionDeriv: nil,
 	}
@@ -37,7 +37,7 @@ func Run() {
 
 	network := neural.MLP{
 		Layers:       layers,
-		LearningRate: 0.1,
+		LearningRate: 0.05,
 		Introspect: func(step neural.Step) {
 			fmt.Println(step.Epoch)
 			fmt.Println(step.Loss)
